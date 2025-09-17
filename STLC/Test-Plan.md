@@ -70,7 +70,7 @@ Das Produkt wird von bestehenden und neuen Nutzern der Social-Media-Plattform ve
 - **Robert Brown** - QA Engineer (Usability Testing)
 - **Maria Garcia** - End User für UAT
 
-## **3. 3. Testziele**
+## **3. Testziele**
 
 ### **Ziele**
 
